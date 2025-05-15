@@ -1,0 +1,10 @@
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.csproj.AssemblyReference.cache
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.AssemblyInfoInputs.cache
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.AssemblyInfo.cs
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.csproj.CoreCompileInputs.cache
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.dll
+C:\IC\4ano\Multiplayer2025\MultiplayerLib-main\MultiplayerLib\obj\Debug\netstandard2.1\MultiplayerLib.pdb
+C:\IC\4ano\Multiplayer2025\Multiplayer\Assets\Scripts\DLL\netstandard2.1\MultiplayerLib.deps.json
+C:\IC\4ano\Multiplayer2025\Multiplayer\Assets\Scripts\DLL\netstandard2.1\MultiplayerLib.dll
+C:\IC\4ano\Multiplayer2025\Multiplayer\Assets\Scripts\DLL\netstandard2.1\MultiplayerLib.pdb

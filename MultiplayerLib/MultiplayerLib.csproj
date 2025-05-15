@@ -8,4 +8,8 @@
         <LangVersion>10</LangVersion>
     </PropertyGroup>
 
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <OutputPath>C:\IC\4ano\Multiplayer2025\Multiplayer\Assets\Scripts\DLL\</OutputPath>
+    </PropertyGroup>
+
 </Project>
